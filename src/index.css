@@ -1,0 +1,102 @@
+*{
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.nav_link{
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: papayawhip;
+  margin: 1%;
+  text-decoration: none;
+  color:brown;
+}
+h1,h2 {
+  text-align: center;
+  color:blueviolet;
+  padding: 0.5%;
+  width:auto;
+  border: solid bisque;
+  border-radius: 25px;
+}
+h1:hover{
+  color: aqua;
+}
+.menu_active{
+  border-bottom: solid 4px red;
+  color: blue;
+}
+.nav_link:hover{
+  color:chocolate;
+}
+.tg {
+  font-size: 2em;
+  margin: auto;
+  margin-top: 2%;
+  padding: 2%;
+  border-collapse:collapse;
+  border-color:#93a1a1;
+  border-spacing:0;
+}
+.tg td{
+  background-color:#fdf6e3;
+  border-color:#93a1a1;
+  border-style:solid;
+  border-width:1px;
+  color:#002b36;
+  font-size:1.5rem;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+.tg th{
+  background-color:#657b83;
+  border-color:#93a1a1;
+  border-style:solid;
+  border-width:1px;
+  color:#fdf6e3;
+  font-size:1.5rem;
+  font-weight:normal;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+.tg .tg-0pky{
+  border-color:inherit;
+  text-align:center;
+  vertical-align:middle
+}
+.form{
+  width:40%;
+  border: aliceblue solid;
+  padding: 1%;
+  margin: auto;
+  display: block;
+font-size: 1.5rem ;
+}
+
+.inp{
+  font-size: 1rem;
+}
+.fflop{
+  padding: 1%;
+}
+.clickme{
+  display: block;
+  font-size: 1em;
+  padding: 3px;
+ }
+.navdiv{
+  border: solid tomato;
+  padding: 1%;
+  border-radius: 25px;
+}
+.navdiv:hover{
+  border:violet solid;
+}
+.foobar{
+  background-color: violet;
+  padding: 1%;
+  font-size: 120%;
+  border-bottom: tomato solid;
+  margin-top: 1%;
+}
